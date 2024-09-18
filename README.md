@@ -1,4 +1,4 @@
 # Ajaypal-1
 This is my first Repository.
-<b>
+<br>
 Author - Ajaypal singh
